@@ -14,11 +14,12 @@ Welcome to Easy Flat! This project is designed to streamline the daily operation
 - [License](#license)
 - [Contact](#Contact)
 
-## Introduction
+## Introduction 🚀
 
-This project was developed as part of a university group assignment with the assistance of two tutors and one professor. Our team followed the Agile software development methodology, adhering strictly to best practices and sprints. The project aims to make shared living more organized and efficient by providing a set of tools to manage everyday tasks.
+This project was developed as part of a university group assignment with the assistance of two tutors and one professor. Our team followed the Agile software development methodology, specifically SCRUM, adhering strictly to best practices. The project aims to make shared living more organized and efficient by providing a set of tools to manage everyday tasks.
 
 I played the role of the **Team Lead** in this project. My responsibilities included coordinating the team, facilitating communication, ensuring adherence to Agile practices, and overseeing the overall progress of the project.
+
 
 ## Features 🛒📊📅
 
