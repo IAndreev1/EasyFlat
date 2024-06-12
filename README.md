@@ -1,6 +1,7 @@
-# Easy Flat
+# Easy Flat 🏠
 
-Welcome to Easy Flat! This project is designed to streamline the daily operations of people living in a shared flat (Wohngemeinschaft or WG). The application provides digital storage, recipe suggestions, finance management, event organization, and chore management.
+Welcome to Easy Flat! This project is designed to streamline the daily operations of people living in a shared flat (Wohngemeinschaft or WG). The application provides digital storage 📦, recipe suggestions 🍲, finance management 💰, event organization 📅, and chore management 🧹. 
+
 
 ## Table of Contents
 
